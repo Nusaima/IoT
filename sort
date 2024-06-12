@@ -1,3 +1,5 @@
+A simple program to sort a list of 20 number
+
 lst=[10,39,79,12,8,93,32,81,2,64,0,88,92,63,55,1,90,78,43,22,89,100]
 lst.sort()
 print(lst)
